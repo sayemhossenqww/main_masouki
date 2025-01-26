@@ -1,0 +1,49 @@
+<div class="row">
+    <div class="col-lg-4 col-md-6 mb-3">
+        <div class="card shadow-sm w-100 shadow-sm">
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-md-8">
+                        <h4 class="card-title">{{ $total }}
+                        </h4>
+                        <p class="card-text">Sales</p>
+                    </div>
+                    <div class="col-md-4 text-center">
+                        <img src="{{ asset('images/webp/credit-card.webp') }}" alt="credit-card" height="64">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-4 col-md-6 mb-3">
+        <div class="card shadow-sm w-100 shadow-sm">
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-md-8">
+                        <h4 class="card-title">{{ $total_orders }}</h4>
+                        <p class="card-text">Total Orders</p>
+                    </div>
+                    <div class="col-md-4 text-center">
+                        <img src="{{ asset('images/webp/paper-bag.webp') }}" alt="paper-bag" height="64">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-lg-4 col-md-6 mb-3">
+        <div class="card shadow-sm w-100 shadow-sm">
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-md-8">
+                        <h4 class="card-title">{{ $total_customers }}</h4>
+                        <p class="card-text">Total Customers</p>
+                    </div>
+                    <div class="col-md-4 text-center">
+                        <img src="{{ asset('images/webp/team.webp') }}" alt="team" height="64">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

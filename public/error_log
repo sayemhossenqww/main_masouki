@@ -1,0 +1,327 @@
+[05-May-2024 13:48:44 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.1.33. in /home/caliisbw/public_html/vendor/composer/platform_check.php on line 24
+[05-May-2024 16:50:05 Asia/Beirut] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/caliisbw/public_html/vendor/nesbot/carbon/src/Carbon/Traits/Date.php on line 1239
+[05-May-2024 16:50:05 Asia/Beirut] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/caliisbw/public_html/vendor/nesbot/carbon/src/Carbon/Traits/Date.php on line 1248
+[05-May-2024 16:50:05 Asia/Beirut] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/caliisbw/public_html/vendor/nesbot/carbon/src/Carbon/Traits/Date.php on line 2464
+[05-May-2024 16:50:05 Asia/Beirut] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/caliisbw/public_html/vendor/nesbot/carbon/src/Carbon/Traits/Date.php on line 2589
+[05-May-2024 16:50:05 Asia/Beirut] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/caliisbw/public_html/vendor/nesbot/carbon/src/Carbon/Traits/Date.php on line 2601
+[05-May-2024 16:50:06 Asia/Beirut] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/caliisbw/public_html/vendor/facade/ignition/src/SolutionProviders/MergeConflictSolutionProvider.php on line 52
+[05-May-2024 16:58:31 Asia/Beirut] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/caliisbw/public_html/vendor/nesbot/carbon/src/Carbon/Traits/Date.php on line 1239
+[05-May-2024 16:58:31 Asia/Beirut] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/caliisbw/public_html/vendor/nesbot/carbon/src/Carbon/Traits/Date.php on line 1248
+[05-May-2024 16:58:31 Asia/Beirut] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/caliisbw/public_html/vendor/nesbot/carbon/src/Carbon/Traits/Date.php on line 2464
+[05-May-2024 16:58:31 Asia/Beirut] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/caliisbw/public_html/vendor/nesbot/carbon/src/Carbon/Traits/Date.php on line 2589
+[05-May-2024 16:58:31 Asia/Beirut] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/caliisbw/public_html/vendor/nesbot/carbon/src/Carbon/Traits/Date.php on line 2601
+[05-May-2024 16:58:31 Asia/Beirut] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/caliisbw/public_html/vendor/facade/ignition/src/SolutionProviders/MergeConflictSolutionProvider.php on line 52
+[05-May-2024 17:08:50 Asia/Beirut] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/caliisbw/public_html/vendor/nesbot/carbon/src/Carbon/Traits/Date.php on line 1239
+[05-May-2024 17:08:50 Asia/Beirut] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/caliisbw/public_html/vendor/nesbot/carbon/src/Carbon/Traits/Date.php on line 1248
+[05-May-2024 17:08:50 Asia/Beirut] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/caliisbw/public_html/vendor/nesbot/carbon/src/Carbon/Traits/Date.php on line 2464
+[05-May-2024 17:08:50 Asia/Beirut] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/caliisbw/public_html/vendor/nesbot/carbon/src/Carbon/Traits/Date.php on line 2589
+[05-May-2024 17:08:50 Asia/Beirut] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/caliisbw/public_html/vendor/nesbot/carbon/src/Carbon/Traits/Date.php on line 2601
+[05-May-2024 17:08:50 Asia/Beirut] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/caliisbw/public_html/vendor/facade/ignition/src/SolutionProviders/MergeConflictSolutionProvider.php on line 52
+[05-May-2024 17:13:25 Asia/Beirut] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/caliisbw/public_html/vendor/nesbot/carbon/src/Carbon/Traits/Date.php on line 1239
+[05-May-2024 17:13:25 Asia/Beirut] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/caliisbw/public_html/vendor/nesbot/carbon/src/Carbon/Traits/Date.php on line 1248
+[05-May-2024 17:13:25 Asia/Beirut] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/caliisbw/public_html/vendor/nesbot/carbon/src/Carbon/Traits/Date.php on line 2464
+[05-May-2024 17:13:25 Asia/Beirut] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/caliisbw/public_html/vendor/nesbot/carbon/src/Carbon/Traits/Date.php on line 2589
+[05-May-2024 17:13:25 Asia/Beirut] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/caliisbw/public_html/vendor/nesbot/carbon/src/Carbon/Traits/Date.php on line 2601
+[05-May-2024 17:13:25 Asia/Beirut] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/caliisbw/public_html/vendor/facade/ignition/src/SolutionProviders/MergeConflictSolutionProvider.php on line 52
+[05-May-2024 11:36:05 America/New_York] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:258
+Stack trace:
+#0 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(18): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(598): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(579): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(490): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#4 /home/caliisbw/public_html/vendor/laravel/framework/src/Il in /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 258
+[05-May-2024 11:36:12 America/New_York] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:258
+Stack trace:
+#0 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(18): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(598): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(579): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(490): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#4 /home/caliisbw/public_html/vendor/laravel/framework/src/Il in /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 258
+[05-May-2024 11:36:16 America/New_York] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:258
+Stack trace:
+#0 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(18): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(598): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(579): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(490): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#4 /home/caliisbw/public_html/vendor/laravel/framework/src/Il in /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 258
+[05-May-2024 11:36:24 America/New_York] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:258
+Stack trace:
+#0 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(18): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(598): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(579): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(490): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#4 /home/caliisbw/public_html/vendor/laravel/framework/src/Il in /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 258
+[05-May-2024 11:36:27 America/New_York] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:258
+Stack trace:
+#0 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(18): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(598): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(579): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(490): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#4 /home/caliisbw/public_html/vendor/laravel/framework/src/Il in /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 258
+[05-May-2024 11:36:28 America/New_York] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:258
+Stack trace:
+#0 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(18): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(598): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(579): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(490): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#4 /home/caliisbw/public_html/vendor/laravel/framework/src/Il in /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 258
+[05-May-2024 11:36:49 America/New_York] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:258
+Stack trace:
+#0 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(18): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(598): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(579): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(490): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#4 /home/caliisbw/public_html/vendor/laravel/framework/src/Il in /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 258
+[05-May-2024 11:37:16 America/New_York] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:258
+Stack trace:
+#0 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(18): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(598): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(579): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(490): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#4 /home/caliisbw/public_html/vendor/laravel/framework/src/Il in /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 258
+[05-May-2024 11:37:30 America/New_York] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:258
+Stack trace:
+#0 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(18): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(598): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(579): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(490): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#4 /home/caliisbw/public_html/vendor/laravel/framework/src/Il in /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 258
+[05-May-2024 11:37:32 America/New_York] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:258
+Stack trace:
+#0 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(18): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(598): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(579): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(490): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#4 /home/caliisbw/public_html/vendor/laravel/framework/src/Il in /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 258
+[05-May-2024 11:38:13 America/New_York] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:258
+Stack trace:
+#0 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(18): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(598): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(579): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(490): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#4 /home/caliisbw/public_html/vendor/laravel/framework/src/Il in /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 258
+[05-May-2024 11:38:20 America/New_York] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:258
+Stack trace:
+#0 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(18): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(598): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(579): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(490): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#4 /home/caliisbw/public_html/vendor/laravel/framework/src/Il in /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 258
+[05-May-2024 11:38:34 America/New_York] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:258
+Stack trace:
+#0 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(18): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(598): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(579): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(490): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#4 /home/caliisbw/public_html/vendor/laravel/framework/src/Il in /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 258
+[05-May-2024 11:38:59 America/New_York] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:258
+Stack trace:
+#0 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(18): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(598): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(579): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(490): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#4 /home/caliisbw/public_html/vendor/laravel/framework/src/Il in /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 258
+[05-May-2024 11:39:59 America/New_York] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:258
+Stack trace:
+#0 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(18): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(598): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(579): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(490): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#4 /home/caliisbw/public_html/vendor/laravel/framework/src/Il in /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 258
+[05-May-2024 11:40:23 America/New_York] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:258
+Stack trace:
+#0 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(18): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(598): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(579): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(490): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#4 /home/caliisbw/public_html/vendor/laravel/framework/src/Il in /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 258
+[05-May-2024 11:40:36 America/New_York] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:258
+Stack trace:
+#0 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(18): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(598): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(579): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(490): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#4 /home/caliisbw/public_html/vendor/laravel/framework/src/Il in /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 258
+[05-May-2024 11:40:46 America/New_York] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:258
+Stack trace:
+#0 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(18): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(598): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(579): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(490): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#4 /home/caliisbw/public_html/vendor/laravel/framework/src/Il in /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 258
+[05-May-2024 11:42:20 America/New_York] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:258
+Stack trace:
+#0 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(18): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(598): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(579): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(490): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#4 /home/caliisbw/public_html/vendor/laravel/framework/src/Il in /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 258
+[05-May-2024 11:42:57 America/New_York] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:258
+Stack trace:
+#0 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(18): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(598): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(579): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(490): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#4 /home/caliisbw/public_html/vendor/laravel/framework/src/Il in /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 258
+[05-May-2024 11:44:42 America/New_York] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:258
+Stack trace:
+#0 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(18): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(598): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(579): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(490): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#4 /home/caliisbw/public_html/vendor/laravel/framework/src/Il in /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 258
+[05-May-2024 11:44:43 America/New_York] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:258
+Stack trace:
+#0 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(18): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(598): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(579): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(490): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#4 /home/caliisbw/public_html/vendor/laravel/framework/src/Il in /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 258
+[05-May-2024 11:44:44 America/New_York] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:258
+Stack trace:
+#0 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(18): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(598): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(579): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(490): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#4 /home/caliisbw/public_html/vendor/laravel/framework/src/Il in /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 258
+[05-May-2024 11:47:21 America/New_York] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:258
+Stack trace:
+#0 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(18): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(598): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(579): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(490): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#4 /home/caliisbw/public_html/vendor/laravel/framework/src/Il in /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 258
+[05-May-2024 11:55:46 America/New_York] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:258
+Stack trace:
+#0 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(18): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(598): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(579): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(490): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#4 /home/caliisbw/public_html/vendor/laravel/framework/src/Il in /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 258
+[05-May-2024 14:56:47 America/New_York] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:258
+Stack trace:
+#0 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(18): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(598): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(579): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(490): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#4 /home/caliisbw/public_html/vendor/laravel/framework/src/Il in /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 258
+[05-May-2024 15:12:13 America/New_York] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:258
+Stack trace:
+#0 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(18): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(598): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(579): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(490): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#4 /home/caliisbw/public_html/vendor/laravel/framework/src/Il in /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 258
+[05-May-2024 15:16:34 America/New_York] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:258
+Stack trace:
+#0 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(18): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(598): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(579): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(490): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#4 /home/caliisbw/public_html/vendor/laravel/framework/src/Il in /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 258
+[05-May-2024 15:18:55 America/New_York] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:258
+Stack trace:
+#0 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(18): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(598): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(579): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(490): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#4 /home/caliisbw/public_html/vendor/laravel/framework/src/Il in /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 258
+[05-May-2024 15:31:36 America/New_York] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:258
+Stack trace:
+#0 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(18): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(598): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(579): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(490): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#4 /home/caliisbw/public_html/vendor/laravel/framework/src/Il in /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 258
+[05-May-2024 15:34:06 America/New_York] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:258
+Stack trace:
+#0 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(18): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(598): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(579): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(490): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#4 /home/caliisbw/public_html/vendor/laravel/framework/src/Il in /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 258
+[05-May-2024 15:35:25 America/New_York] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:258
+Stack trace:
+#0 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(18): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(598): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(579): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(490): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#4 /home/caliisbw/public_html/vendor/laravel/framework/src/Il in /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 258
+[05-May-2024 15:36:19 America/New_York] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:258
+Stack trace:
+#0 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(18): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(598): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(579): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(490): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#4 /home/caliisbw/public_html/vendor/laravel/framework/src/Il in /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 258
+[05-May-2024 15:38:43 America/New_York] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:258
+Stack trace:
+#0 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(18): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(598): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(579): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(490): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#4 /home/caliisbw/public_html/vendor/laravel/framework/src/Il in /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 258
+[05-May-2024 15:38:53 America/New_York] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:258
+Stack trace:
+#0 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(18): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(598): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(579): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(490): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#4 /home/caliisbw/public_html/vendor/laravel/framework/src/Il in /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 258
+[05-May-2024 18:00:20 America/New_York] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:258
+Stack trace:
+#0 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(18): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(598): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(579): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(490): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#4 /home/caliisbw/public_html/vendor/laravel/framework/src/Il in /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 258
+[05-May-2024 18:01:50 America/New_York] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:258
+Stack trace:
+#0 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(16): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(598): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(579): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(490): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(356): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(427): Illuminate\Foundation\Exceptions\Handler->render()
+#6 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(115): Illuminate\Foundation\Http\Kernel->renderException()
+#7 /home/caliisbw/public_html/public/index.php(51): Illuminate\Foundation\Http\Kernel->handle()
+#8 {main}
+  thrown in /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 258
+[05-May-2024 18:03:28 America/New_York] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:258
+Stack trace:
+#0 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(16): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(598): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(579): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(490): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(356): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(427): Illuminate\Foundation\Exceptions\Handler->render()
+#6 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(115): Illuminate\Foundation\Http\Kernel->renderException()
+#7 /home/caliisbw/public_html/public/index.php(51): Illuminate\Foundation\Http\Kernel->handle()
+#8 {main}
+  thrown in /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 258
+[05-May-2024 18:03:34 America/New_York] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:258
+Stack trace:
+#0 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(16): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(598): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(579): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(490): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(356): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(427): Illuminate\Foundation\Exceptions\Handler->render()
+#6 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(115): Illuminate\Foundation\Http\Kernel->renderException()
+#7 /home/caliisbw/public_html/public/index.php(51): Illuminate\Foundation\Http\Kernel->handle()
+#8 {main}
+  thrown in /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 258
+[05-May-2024 18:58:51 America/New_York] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:258
+Stack trace:
+#0 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(18): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(598): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(579): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(490): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#4 /home/caliisbw/public_html/vendor/laravel/framework/src/Il in /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 258
+[05-May-2024 18:59:23 America/New_York] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:258
+Stack trace:
+#0 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(18): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(598): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(579): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(490): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#4 /home/caliisbw/public_html/vendor/laravel/framework/src/Il in /home/caliisbw/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 258

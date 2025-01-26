@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://the-bruvs.com/sitemap
